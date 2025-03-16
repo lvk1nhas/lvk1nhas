@@ -1,12 +1,5 @@
 ### Olá, me chamo Lucas Melo 🤙
 
-
-[![tt](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/lvkinhas)
-[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mibrlucas)
-[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@notlvk)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/lvk1nhas)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/lukinhas5d)
-
 ![lvk's GitHub stats](https://github-readme-stats.vercel.app/api?username=lvk1nhas&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
